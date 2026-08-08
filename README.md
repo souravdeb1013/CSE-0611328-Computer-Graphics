@@ -1,4 +1,4 @@
-# CSE-0611328-Computer-Graphics
+
 # Computer Graphics Lab Assignment
 
 **Student Name:** Sourav Debnath  

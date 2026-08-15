@@ -1,7 +1,7 @@
 ## 📌 Assignment Objective
 
-Name: **Sourav Debnath** 
-Student ID: 0432410005101013
+##Name: **Sourav Debnath** 
+##Student ID: 0432410005101013
 
 
 1. Set the window background color to **Magenta** (`RGB: 1.0, 0.0, 1.0`).
